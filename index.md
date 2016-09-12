@@ -4,6 +4,7 @@ title:  Your life is different now
 ---
 
 # {{ page.title }}
+
 # h1
 
 _Add your text here_
